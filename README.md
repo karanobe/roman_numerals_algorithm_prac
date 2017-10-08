@@ -2,7 +2,7 @@
 
 Integer to Roman Numerals conversion. With Rspec tests!
 
-#Release 0 : Old Roman Numerals
+# Release 0 : Old Roman Numerals
 
 | Arabic Number  | Roman Numeral |
 | -------------- | ------------- |
@@ -16,7 +16,7 @@ Integer to Roman Numerals conversion. With Rspec tests!
 
 *Table 1*. Arabic number and their old Roman numeral equivalents.
 
-# Release 2:  An Option for Modern Roman Numerals
+# Release 1:  An Option for Modern Roman Numerals
 
 | Arabic Number | Roman Numeral |
 | ------------- | ------------- |
